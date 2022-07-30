@@ -15,7 +15,7 @@ BioRED is a first-of-its-kind biomedical RE corpus with multiple entity types (e
 
 ## Citing BioRED
 
-* Luo L., Lai P. T., Wei C. H., Arighi C. N. and Lu Z. BioRED: A Rich Biomedical Relation Extraction Dataset. Briefing in Bioinformatics. 2022.
+* Luo L., Lai P. T., Wei C. H., Arighi C. N. and Lu Z. [BioRED: A Rich Biomedical Relation Extraction Dataset](https://doi.org/10.1093/bib/bbac282). Briefing in Bioinformatics. 2022.
 ```
 @article{luo2022biored,
   author    = {Luo, Ling and Lai, Po-Ting and Wei, Chih-Hsuan and Arighi, Cecilia N and Lu, Zhiyong},
